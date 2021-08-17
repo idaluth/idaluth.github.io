@@ -1,0 +1,27 @@
+
+.jumbotron{
+    background-image: url(pic2.jpg);
+    background-size: cover;
+    height: 300px;
+    align: center;
+}
+
+.jumbotron .display-4{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.jumbotron .lead{
+    margin-left: 50px;
+}
+
+.jumbotron .btn {
+    margin-left: 50px;
+}
+
+.card{
+    margin-left: 25px;
+    margin-top: -50px;
+}
